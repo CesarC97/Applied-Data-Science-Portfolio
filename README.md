@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Applied Data Science Portfolio
 This portfolio shows the data analysis, data science, and machine learning projects I have completed and others that I am still working on.
 
 ## Projects
